@@ -1,0 +1,21 @@
+{
+  "name": "Padel Pro GSD",
+  "short_name": "PadelProGSD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Aplicación para gestionar y crear torneos de pádel.",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
