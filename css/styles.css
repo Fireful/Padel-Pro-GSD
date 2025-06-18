@@ -7,6 +7,18 @@ body {
   color: #111827;
   text-align: center;
 }
+.formulario{
+  margin: auto;
+  display: inline-flex;
+}
+
+.form-label {
+  font-weight: 500;
+}
+
+.form-control, .form-select {
+  margin-bottom: 0.5rem;
+}
 
 h1 {
   color: #1d4ed8;

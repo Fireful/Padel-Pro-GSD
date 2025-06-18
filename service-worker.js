@@ -5,8 +5,8 @@ const ASSETS_TO_CACHE = [
   '/manifest.json',
   '/css/styles.css',
   '/js/main.js',
-  '/assets/icons/icon-192x192.png',
-  '/assets/icons/icon-512x512.png'
+  '/padel-pro-gsd/assets/icons/icon-192x192.png',
+  '/padel-pro-gsd/assets/icons/icon-512x512.png'
 ];
 
 // Install SW

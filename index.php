@@ -1,5 +1,7 @@
 <!-- index.php -->
-<?php include 'header.php'; ?>
-<?php include 'form-crear-torneo.php'; ?>
-<?php include 'lista-torneos.php'; ?>
-<?php include 'footer.php'; ?>
+<?php include 'includes/header.php'; ?>
+<?php include 'torneos/form-crear-torneo.php'; ?>
+
+ 
+<?php include 'torneos/lista-torneos.php'; ?>
+<?php include 'includes/footer.php'; ?>
